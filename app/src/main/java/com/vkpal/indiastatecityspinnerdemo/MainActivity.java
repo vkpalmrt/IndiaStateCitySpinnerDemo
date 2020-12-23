@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
     ArrayList<String> listCity = new ArrayList<String>();
     // access all auto complete text views
     AutoCompleteTextView act;
-    private String str="";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
